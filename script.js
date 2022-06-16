@@ -118,8 +118,6 @@ const Info = {
 Info.name = prompt("Inserisci il nome");
 Info.age = prompt("Inserisci gli anni"); //Rispondendo ai prompt, si immagazzinano le risposte
 
-Info.name = "";
-
 const inputEl = document.querySelector("input");
 const inputE2 = document.querySelector("input");
 const buttonEl = document.querySelector("button");
